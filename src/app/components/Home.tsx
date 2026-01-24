@@ -148,7 +148,7 @@ const Location = styled.a`
     color: #ff1493;
     text-decoration: underline;
   }
-`;
+`; 
 
 export default function Home() {
   const targetDate = "2026-01-18T13:00:00";
